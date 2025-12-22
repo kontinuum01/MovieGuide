@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="year">Year: %1$s</string>
+    <string name="imdb">IMDb:%1$s</string>
+    <string name="metascore">Metascore:%1$s</string>
+    <string name="genre">Genre: %1$s</string>
+    <string name="runtime">Runtime: %1$s</string>
+    <string name="director">Director: %1$s</string>
+    <string name="actors">Actors: %1$s</string>
+    <string name="plot">Plot: %1$s</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="error_favorites_operation">Error Favorites Operation</string>
+
+</resources>
