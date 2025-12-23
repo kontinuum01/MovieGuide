@@ -1,4 +1,4 @@
-[![geekbrains.ru](https://img.shields.io/badge
+[![geekbrains.ru](https://img.shields.io/badge/:badgeContent
 )](https://geekbrains.ru)
 
 # MovieGuide
