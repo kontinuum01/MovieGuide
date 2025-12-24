@@ -15,7 +15,7 @@
 
     <fragment
         android:id="@+id/movie_details"
-        android:name="features.moviedetails.presentation.MovieDetailsFragment"
+        android:name="com.example.movieguide.features.moviedetails.presentation.MovieDetailsFragment"
         android:label="@string/title_details"
         tools:layout="@layout/fragment_moviedetails">
 
